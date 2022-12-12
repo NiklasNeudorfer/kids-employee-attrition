@@ -1,0 +1,11 @@
+= kids-employee-attrition
+
+Miniproject for KIDS at HTL Leonding 2022/23
+
+== Members
+
+* Aichinger Niklas
+
+* Ablinger Raphael
+
+* Neudorfer Niklas
