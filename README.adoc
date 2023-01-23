@@ -2,6 +2,8 @@
 
 Miniproject for KIDS at HTL Leonding 2022/23
 
+* https://www.kaggle.com/datasets/patelprashant/employee-attrition
+
 == Members
 
 * Aichinger Niklas
