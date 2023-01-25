@@ -11,3 +11,8 @@ Miniproject for KIDS at HTL Leonding 2022/23
 * Ablinger Raphael
 
 * Neudorfer Niklas
+
+
+== Explanation of the Data
+
+* https://www.kaggle.com/code/rxsraghavagrawal/eda-xgboost-randomforest-performance-tuning/notebook
